@@ -31,8 +31,6 @@
  [Clean] Description of changes
  */
 
-
-
 import SwiftUI
 
 struct ContentView: View {
@@ -44,7 +42,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Swiftful Thinking")
             
-            Button("Subscribe Now", action: {
+            Button("Subscribe", action: {
                 
             })
             
