@@ -18,6 +18,9 @@ struct HomeView: View {
             Text("Screen 3")
             Text("Screen 4")
         }
+        .onAppear(perform: {
+            // some code
+        })
     }
 }
 
