@@ -43,7 +43,7 @@ struct ContentView: View {
             ScrollView {
                 VStack {
                     ForEach(0..<20) { _ in
-                        Image(systemName: "globe")
+                        Image(systemName: "house.fill")
                             .font(.largeTitle)
                             .imageScale(.large)
                             .foregroundStyle(.tint)
