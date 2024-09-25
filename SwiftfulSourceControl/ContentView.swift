@@ -7,7 +7,7 @@
 
 /*
  Clone  = Copying the repository locally
- Commit = Save ("checkpoint") chabges on our current branch
+ Commit = Save ("checkpoint") changes on our current branch
  Stage  = Prepare changes for a commit
  Stash  = Save changes for later
  Push   = Send local commits to remote repo
