@@ -50,7 +50,7 @@ struct ContentView: View {
                             .foregroundStyle(.tint)
                         Text("Swiftful!!!!!")
                         
-                        Button("Click me", action: {
+                        Button("Subscribe", action: {
                             
                         })
                     }
