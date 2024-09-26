@@ -12,6 +12,7 @@
 		5D04CEFD2C817A4C00EC719F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D04CEFC2C817A4C00EC719F /* Assets.xcassets */; };
 		5D04CF002C817A4C00EC719F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D04CEFF2C817A4C00EC719F /* Preview Assets.xcassets */; };
 		5D856DA92C914468008DE428 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D856DA82C914468008DE428 /* HomeView.swift */; };
+		5DEEEBF82CA5154600EFFDCD /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DEEEBF72CA5154600EFFDCD /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		5D04CEFC2C817A4C00EC719F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D04CEFF2C817A4C00EC719F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5D856DA82C914468008DE428 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		5DEEEBF72CA5154600EFFDCD /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				5D04CEF82C817A4A00EC719F /* SwiftfulSourceControlApp.swift */,
 				5D04CEFA2C817A4A00EC719F /* ContentView.swift */,
 				5D856DA82C914468008DE428 /* HomeView.swift */,
+				5DEEEBF72CA5154600EFFDCD /* SettingsView.swift */,
 				5D04CEFC2C817A4C00EC719F /* Assets.xcassets */,
 				5D04CEFE2C817A4C00EC719F /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D856DA92C914468008DE428 /* HomeView.swift in Sources */,
+				5DEEEBF82CA5154600EFFDCD /* SettingsView.swift in Sources */,
 				5D04CEFB2C817A4A00EC719F /* ContentView.swift in Sources */,
 				5D04CEF92C817A4A00EC719F /* SwiftfulSourceControlApp.swift in Sources */,
 			);
